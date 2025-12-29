@@ -74,12 +74,7 @@ C нᴀω, сʏպии в пᴀмяти!
 Ввод.
 </h2>--> 
 
-<table>
-  <tr>
-    <th><img src="me.png" alt="rbetik12" /> </th>
-    <th><img src="pray_v2.jpg" alt="rbetik12" /> </th>
-  </tr>
-</table>
+
 <br><br> <br>
 
 
